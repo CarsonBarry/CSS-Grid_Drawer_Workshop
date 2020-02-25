@@ -123,7 +123,7 @@ export default function App() {
 
         {/*/ Grid Item - Content Area /*/}
         <div id="content" class="bcolor-grey70 tcolor-white flex-jC-aiC">
-          <h1>Content</h1>
+          <h1>test</h1>
         </div>
 
         {/*/ Grid Item - Drawer /*/}
